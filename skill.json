@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-ocular-accommodative-microfluctuations-amf-skill",
+  "version": "1.0.0",
+  "description": "Quantifies ocular accommodative microfluctuations (AMF), low-frequency drift (LFC), and high-frequency tremor (HFC 1.0-2.3 Hz) to detect ciliary muscle fatigue and visual asthenopia.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "vision",
+    "optometry",
+    "asthenopia",
+    "accommodation",
+    "ciliary-muscle",
+    "fatigue",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
